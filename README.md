@@ -2,7 +2,8 @@
 
 Chattr is a real-time chat application that allows users to create profiles, join topic-specific forums, and engage in private or public discussions. It supports simultaneous participation in multiple groups, offering a dynamic and interactive user experience. This project was built as a learning exercise to explore APIs and web development technologies, serving as a stepping stone for future projects.
 
-Due to the APIs used are supported on React 18, while the project is built using React 19, deployment of the prject using vercel is not possible until the new version of stream and clerk API are released
+This project is built using React 19; however, the APIs utilized, including the Stream and Clerk APIs, currently support only React 18. As a result, deployment of the project on platforms like Vercel is not possible until updated versions of these APIs are released with support for React 19.
+For now, to deploy or run the project successfully, consider downgrading to React 18.
 
 ## Features
 
